@@ -1,0 +1,6 @@
+# dot prefixed files and directories
+.*
+
+spooning-cli-*.tgz
+test/
+coverage.lcov

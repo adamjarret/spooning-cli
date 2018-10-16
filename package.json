@@ -1,0 +1,51 @@
+{
+  "name": "spooning-cli",
+  "version": "0.9.0",
+  "description": "Run tests defined with spooning",
+  "main": "index.js",
+  "bin": {
+    "spoon": "./bin/cli.js"
+  },
+  "scripts": {
+    "t": "node test/run.js",
+    "lint": "eslint index.js bin lib test",
+    "test": "npm run lint && npm run t",
+    "cover": "nyc npm test",
+    "lcov": "nyc report --reporter=text-lcov > coverage.lcov",
+    "html": "nyc report --reporter=html --report-dir=.coverage",
+    "pack": "npm pack --dry-run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamjarret/spooning-cli.git"
+  },
+  "keywords": [
+    "spooning",
+    "TAP",
+    "test",
+    "anything",
+    "run",
+    "runner",
+    "harness",
+    "unit"
+  ],
+  "author": "Adam Jarret <adam@atj.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamjarret/spooning-cli/issues"
+  },
+  "homepage": "https://github.com/adamjarret/spooning-cli#readme",
+  "peerDependencies": {
+    "spooning": "^1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "nyc": "^13.0.1",
+    "spooning": "^1.0.1"
+  },
+  "dependencies": {
+    "glob": "^7.1.3",
+    "minimist": "^1.2.0",
+    "supports-color": "^5.5.0"
+  }
+}

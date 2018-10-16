@@ -1,0 +1,6 @@
+# dot prefixed directories
+.*/
+
+spooning-cli-*.tgz
+node_modules/
+coverage.lcov

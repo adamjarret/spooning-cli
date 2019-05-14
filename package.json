@@ -43,7 +43,7 @@
     "codecov": "3.4.0",
     "eslint": "5.16.0",
     "nyc": "14.1.1",
-    "spooning": "1.1.1"
+    "spooning": "1.1.2"
   },
   "dependencies": {
     "glob": "7.1.4",

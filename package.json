@@ -40,7 +40,7 @@
     "spooning": "1.1.0"
   },
   "devDependencies": {
-    "codecov": "3.4.0",
+    "codecov": "3.5.0",
     "eslint": "5.16.0",
     "nyc": "14.1.1",
     "spooning": "1.1.1"

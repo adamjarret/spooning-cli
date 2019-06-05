@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/adamjarret/spooning-cli#readme",
   "peerDependencies": {
-    "spooning": "1.1.0"
+    "spooning": "^1.0.0"
   },
   "devDependencies": {
     "codecov": "3.5.0",

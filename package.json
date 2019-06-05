@@ -1,6 +1,6 @@
 {
   "name": "spooning-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Run tests defined with spooning",
   "main": "index.js",
   "bin": {

@@ -48,6 +48,6 @@
   "dependencies": {
     "glob": "7.1.4",
     "minimist": "1.2.0",
-    "supports-color": "6.1.0"
+    "supports-color": "7.0.0"
   }
 }

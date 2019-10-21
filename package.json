@@ -46,7 +46,7 @@
     "spooning": "1.1.2"
   },
   "dependencies": {
-    "glob": "7.1.4",
+    "glob": "7.1.5",
     "minimist": "1.2.0",
     "supports-color": "6.1.0"
   }

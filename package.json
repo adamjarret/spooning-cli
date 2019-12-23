@@ -42,7 +42,7 @@
   "devDependencies": {
     "codecov": "3.5.0",
     "eslint": "5.16.0",
-    "nyc": "14.1.1",
+    "nyc": "15.0.0",
     "spooning": "1.1.2"
   },
   "dependencies": {

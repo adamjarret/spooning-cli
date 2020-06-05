@@ -1,11 +1,9 @@
 # spooning-cli
 
 [![Package Version](https://img.shields.io/npm/v/spooning-cli.svg)](https://npmjs.com/package/spooning-cli)
-[![Build Status](https://img.shields.io/travis/adamjarret/spooning-cli.svg)](https://travis-ci.org/adamjarret/spooning-cli)
+[![Install Size](https://badgen.net/packagephobia/install/spooning-cli)](https://packagephobia.now.sh/result?p=spooning-cli)
 [![Coverage Status](https://img.shields.io/codecov/c/github/adamjarret/spooning-cli.svg)](https://codecov.io/gh/adamjarret/spooning-cli)
 [![Dependencies](https://img.shields.io/david/adamjarret/spooning-cli.svg)](https://david-dm.org/adamjarret/spooning-cli)
-[![Dev Dependencies](https://img.shields.io/david/dev/adamjarret/spooning-cli.svg)](https://david-dm.org/adamjarret/spooning-cli?type=dev)
-[![Greenkeeper](https://badges.greenkeeper.io/adamjarret/spooning-cli.svg)](https://greenkeeper.io/)
 
 Run tests defined with [spooning][spooning].
 

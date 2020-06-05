@@ -40,14 +40,14 @@
     "spooning": "^1.0.0"
   },
   "devDependencies": {
-    "codecov": "3.5.0",
-    "eslint": "5.16.0",
-    "nyc": "14.1.1",
+    "codecov": "3.7.0",
+    "eslint": "7.1.0",
+    "nyc": "15.1.0",
     "spooning": "1.1.2"
   },
   "dependencies": {
-    "glob": "7.1.4",
-    "minimist": "1.2.0",
-    "supports-color": "6.1.0"
+    "glob": "7.1.6",
+    "minimist": "1.2.5",
+    "supports-color": "7.1.0"
   }
 }

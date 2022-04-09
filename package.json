@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "glob": "7.1.6",
-    "minimist": "1.2.5",
+    "minimist": "1.2.6",
     "supports-color": "7.1.0"
   }
 }
